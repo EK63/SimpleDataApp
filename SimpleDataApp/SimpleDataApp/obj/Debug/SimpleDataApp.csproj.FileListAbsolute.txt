@@ -1,0 +1,12 @@
+D:\05-Church\85-ParishRegistry\VS-test\Test-5\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.exe.config
+D:\05-Church\85-ParishRegistry\VS-test\Test-5\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.exe
+D:\05-Church\85-ParishRegistry\VS-test\Test-5\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.pdb
+D:\05-Church\85-ParishRegistry\VS-test\Test-5\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.csprojAssemblyReference.cache
+D:\05-Church\85-ParishRegistry\VS-test\Test-5\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.Navigation.resources
+D:\05-Church\85-ParishRegistry\VS-test\Test-5\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.Properties.Resources.resources
+D:\05-Church\85-ParishRegistry\VS-test\Test-5\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.csproj.GenerateResource.cache
+D:\05-Church\85-ParishRegistry\VS-test\Test-5\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.csproj.CoreCompileInputs.cache
+D:\05-Church\85-ParishRegistry\VS-test\Test-5\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.exe
+D:\05-Church\85-ParishRegistry\VS-test\Test-5\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.pdb
+D:\05-Church\85-ParishRegistry\VS-test\Test-5\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.NewCustomer.resources
+D:\05-Church\85-ParishRegistry\VS-test\Test-5\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.FillOrCancel.resources
