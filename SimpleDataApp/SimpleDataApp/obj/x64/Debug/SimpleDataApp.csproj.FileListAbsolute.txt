@@ -1,0 +1,12 @@
+D:\05-Church\85-ParishRegistry\VS-test\Test-5.0 - SimpleDataApp\SimpleDataApp\SimpleDataApp\bin\x64\Debug\SimpleDataApp.exe.config
+D:\05-Church\85-ParishRegistry\VS-test\Test-5.0 - SimpleDataApp\SimpleDataApp\SimpleDataApp\bin\x64\Debug\SimpleDataApp.exe
+D:\05-Church\85-ParishRegistry\VS-test\Test-5.0 - SimpleDataApp\SimpleDataApp\SimpleDataApp\bin\x64\Debug\SimpleDataApp.pdb
+D:\05-Church\85-ParishRegistry\VS-test\Test-5.0 - SimpleDataApp\SimpleDataApp\SimpleDataApp\obj\x64\Debug\SimpleDataApp.FillOrCancel.resources
+D:\05-Church\85-ParishRegistry\VS-test\Test-5.0 - SimpleDataApp\SimpleDataApp\SimpleDataApp\obj\x64\Debug\SimpleDataApp.Navigation.resources
+D:\05-Church\85-ParishRegistry\VS-test\Test-5.0 - SimpleDataApp\SimpleDataApp\SimpleDataApp\obj\x64\Debug\SimpleDataApp.NewCustomer.resources
+D:\05-Church\85-ParishRegistry\VS-test\Test-5.0 - SimpleDataApp\SimpleDataApp\SimpleDataApp\obj\x64\Debug\SimpleDataApp.Properties.Resources.resources
+D:\05-Church\85-ParishRegistry\VS-test\Test-5.0 - SimpleDataApp\SimpleDataApp\SimpleDataApp\obj\x64\Debug\SimpleDataApp.SplashScreen.resources
+D:\05-Church\85-ParishRegistry\VS-test\Test-5.0 - SimpleDataApp\SimpleDataApp\SimpleDataApp\obj\x64\Debug\SimpleDataApp.csproj.GenerateResource.cache
+D:\05-Church\85-ParishRegistry\VS-test\Test-5.0 - SimpleDataApp\SimpleDataApp\SimpleDataApp\obj\x64\Debug\SimpleDataApp.csproj.CoreCompileInputs.cache
+D:\05-Church\85-ParishRegistry\VS-test\Test-5.0 - SimpleDataApp\SimpleDataApp\SimpleDataApp\obj\x64\Debug\SimpleDataApp.exe
+D:\05-Church\85-ParishRegistry\VS-test\Test-5.0 - SimpleDataApp\SimpleDataApp\SimpleDataApp\obj\x64\Debug\SimpleDataApp.pdb
